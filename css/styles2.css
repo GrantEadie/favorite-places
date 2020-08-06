@@ -1,0 +1,10 @@
+img {
+  height: 200px;
+  width: 300px;
+  object-fit: cover;
+}
+
+.row-space {
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
